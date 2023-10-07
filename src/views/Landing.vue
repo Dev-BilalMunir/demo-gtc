@@ -489,7 +489,7 @@ const logoUrl = computed(() => {
             style="border-radius: 8px"
           >
             <img
-              src="/demo/images/landing/mockup.svg"
+              src=""
               class="w-11"
               alt="project image"
             />
@@ -540,7 +540,7 @@ const logoUrl = computed(() => {
             style="border-radius: 8px"
           >
             <img
-              src="/demo/images/landing/mockup-desktop.svg"
+              src=""
               class="w-11"
               alt="project image"
             />
@@ -552,7 +552,7 @@ const logoUrl = computed(() => {
             style="border-radius: 8px"
           >
             <img
-              src="/demo/images/landing/mockup.svg"
+              src=""
               class="w-11"
               alt="project image"
             />
@@ -605,7 +605,7 @@ const logoUrl = computed(() => {
             style="border-radius: 8px"
           >
             <img
-              src="/demo/images/landing/mockup-desktop.svg"
+              src=""
               class="w-11"
               alt="project image"
             />
